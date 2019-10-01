@@ -11,7 +11,7 @@ ms.sitesec: library
 ms.topic: article
 ms.localizationpriority: medium
 appliesto:
-- HoloLens 1 (1st gen)
+- HoloLens (1st gen)
 - HoloLens 2
 ---
 
